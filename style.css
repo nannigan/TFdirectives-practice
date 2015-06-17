@@ -1,0 +1,54 @@
+body{
+    font-family: 'Roboto Slab' , serif;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Roboto Slab' , serif;
+    font-weight: 700;
+    color:#f60f83;
+
+}
+
+
+.brand-logo{
+    display: block;
+    width:650px;
+    height:216px;
+    padding:20px;
+ background-image: url('img/oaktownvampire.jpg');
+   box-shadow:0 6px 12px rgba(0,0,0,.25);
+   padding-top: 30px;
+}
+
+.formish{
+    display: block;
+    width: 750px;
+    margin: 30px auto;
+}
+
+.opt-el{
+    width:350px;
+margin-left: 260px;
+margin-bottom: 10px;
+
+}
+
+.opt-el-last{
+    margin-bottom:30px;
+}
+
+.input-group-addon{
+    background-color:#fdea6a;
+}
+
+.form-control{
+    background-color:#f60f83;
+}
+.vkbutt{
+    display: block;
+    background:#f60f83;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    color:#fff;
+    border: none;
+}
